@@ -48,6 +48,18 @@ permalink: /about/
 </div>
 {% endif %}
 
+{% if site.data.education %}
+
+<div class="jumbotron">
+  <h3>Education</h3>
+  <ul>
+    {% for experience in site.data.education %}
+      <li>{{ education.name }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
 {% if site.data.grants %}
 
 <div class="jumbotron">
