@@ -18,7 +18,5 @@
   #  ["(2021) Ph.D. Physics, UQ", "(2015) M.S. Physics, UPD", "(2013) B.S. Physics, AdMU"]
   currentposition:
     [
-      <h6>"Postdoc"</h6>
-      <h6>"Institute of Theoretical Physics"</h6>
-      <h6>"Jagiellonian University"</h6>
+      "Postdoc", "Institute of Theoretical Physics", "Jagiellonian University"
     ]
