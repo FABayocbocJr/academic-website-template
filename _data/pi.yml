@@ -1,10 +1,10 @@
-- name: Dr. Richard Feynman
+- name: Francis A. Bayocboc, Jr.
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
+  info: Postdoctoral Researcher, Institute of Theoretical Physics, Jagiellonian University
+  email: f.bayocboc@uj.edu.pl
+  github: https://github.com/FABayocbocJr
   researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  scholar: https://scholar.google.com/citations?user=pAeZxuMAAAAJ&hl=en
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
