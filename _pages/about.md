@@ -53,7 +53,7 @@ permalink: /about/
 <div class="jumbotron">
   <h3>Education</h3>
   <ul>
-    {% for experience in site.data.education %}
+    {% for education in site.data.education %}
       <li>{{ education.name }}</li>
     {% endfor %}
   </ul>
