@@ -36,6 +36,18 @@ permalink: /about/
 </div>
 {% endfor %}
 
+{% if site.data.experience %}
+
+<div class="jumbotron">
+  <h3>Experience</h3>
+  <ul>
+    {% for experience in site.data.experience %}
+      <li>{{ experience.name }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
 {% if site.data.grants %}
 
 <div class="jumbotron">
