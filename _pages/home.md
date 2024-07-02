@@ -7,11 +7,9 @@ permalink: /
 
 ### Welcome!
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+I am a postdoctoral researcher (Adiunkt) in the <a href="http://www.qmbt.if.uj.edu.pl/">Quantum Many-Body Theory Group</a>  of the <a href="https://ift.uj.edu.pl/">Institute of Theoretical Physics</a>, <a href="https://www.uj.edu.pl/">Jagiellonian University</a>, where I study the nonequilibrium dynamics of quantum many-body systems, in particular one-dimensional quasicondensates.
+
+I received my PhD in Physics from the University of Queensland in 2021 under the supervision of <a href="https://people.smp.uq.edu.au/KarenKheruntsyan/">Prof. Kar&#233;n V. Kheruntsyan</a>. Before coming to Australia for my PhD, I was a faculty member in the <a href="https://imsp.cas.uplb.edu.ph/">Institute of Mathematical Sciences and Physics</a> of the <a href="https://uplb.edu.ph/main/">University of the Philippines, Los Ba&ntilde;os</a> from 2015 to 2017. Previously, I received my MSc in Physics from the <a href="https://upd.edu.ph/">University of the Philippines, Diliman</a> in 2015, and a BSc in Physics from the <a href="https://www.ateneo.edu/">Ateneo de Manila University</a> in 2013.  
 
 <div class="container">
 <div class="row">
