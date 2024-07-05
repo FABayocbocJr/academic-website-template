@@ -33,7 +33,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 <div class="jumbotron">
 ### PhD Thesis
-{% bibliography --query @phdthesis %}
+{% bibliography --query @phdthesis @mastersthesis %}
 </div>
 
 <div class="jumbotron">
