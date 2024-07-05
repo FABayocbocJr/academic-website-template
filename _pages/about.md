@@ -16,7 +16,9 @@ permalink: /about/
 </div>
 <div class="col-sm-8 col-xs-12">
   <h3>{{ member.name }}</h3>
-  <h6><i>{{ member.info }}</i></h6>
+  <h5><i>{{ member.position }}</i></h5>
+  <h5><i>{{ member.dept }}</i></h5>
+  <h5><i>{{ member.uni }}</i></h5>
   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> {% endif %}
   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
