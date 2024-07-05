@@ -60,6 +60,18 @@ permalink: /about/
 </div>
 {% endif %}
 
+{% if site.data.membership %}
+
+<div class="jumbotron">
+  <h3>Memberships</h3>
+  <ul>
+    {% for membership in site.data.membership %}
+      <li>{{ membership.name }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
 {% if site.data.grants %}
 
 <div class="jumbotron">
