@@ -7,7 +7,7 @@ permalink: /
 
 ### Welcome!
 
-##### Pax et bonum!
+#### Pax et bonum!
 
 I am a postdoctoral researcher (Adiunkt) in the <a href="http://www.qmbt.if.uj.edu.pl/">Quantum Many-Body Theory Group</a> at the <a href="https://ift.uj.edu.pl/">Institute of Theoretical Physics</a>, <a href="https://www.uj.edu.pl/">Jagiellonian University</a>. My research focuses on the nonequilibrium dynamics of quantum many-body systems, in particular quantum gases and spin systems.
 
