@@ -16,7 +16,7 @@ I received my PhD in Physics from the University of Queensland in 2021 under the
 <div class="container">
 <div class="row">
 <center>
-<img src="images/tatra.jpg" width="100%"/><br/>
+<img src="{{site.url}}{{site.baseurl}}/images/tatra.jpg" width="100%"/><br/>
 View of Tatry Wysokie (High Tatras) from Dolina Gąsienicowa (Gąsienicowa Valley). <br/>
 </center>
 </div>
