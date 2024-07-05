@@ -14,9 +14,8 @@ I received my PhD in Physics from the University of Queensland in 2021 under the
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+<img src="{{ site.url }}{{ site.baseurl }}/images/tatra.jpg" width="100%"/><br/>
+View of Tatry Wysokie (High Tatras) from Dolina Gąsienicowa (Gąsienicowa Valley). <br/>
 </center>
 </div>
 </div>
