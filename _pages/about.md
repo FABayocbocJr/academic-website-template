@@ -65,7 +65,7 @@ permalink: /about/
 {% if site.data.membership %}
 
 <div class="jumbotron">
-  <h3>Memberships</h3>
+  <h3>Membership</h3>
   <ul>
     {% for membership in site.data.membership %}
       <li>{{ membership.name }}</li>
