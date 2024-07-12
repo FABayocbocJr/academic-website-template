@@ -15,12 +15,12 @@ affiliation: >
   Francis A. Bayocboc, Jr.<br/>
   Adiunkt<br/>
   Instytut Fizyki Teoretycznej<br/>
-  Uniwersytet Jagielloński
+  Uniwersytet Jagiello&nacute;ski
 
 location: >
-  Wydział Fizyki, Astronomii i Informatyki Stosowanej<br/>
-  ul. prof. Stanisława Łojasiewicza 11<br/>
-  30-348 Kraków
+  Wydzia&lstrok; Fizyki, Astronomii i Informatyki Stosowanej<br/>
+  ul. prof. Stanis&lstrok;awa &Lstrok;ojasiewicza 11<br/>
+  30-348 Krak&oacute;w
 
 contact: >
   <a href="mailto:f.bayocboc@uj.edu.pl" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Francis via email</a> <br/>
@@ -30,12 +30,12 @@ contact: >
 nav_pages:
   - name: about
   - name: publications
-  - name: talks
-  - name: research
-  - name: software
-  - name: team
-  - name: teaching
-  - name: blogs
+  #- name: talks
+  #- name: research
+  #- name: software
+  #- name: team
+  #- name: teaching
+  #- name: blogs
 
 include:
   - .htaccess
