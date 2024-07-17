@@ -12,8 +12,10 @@ permalink: /about/
 <div class="jumbotron">
 <div class="row">
 <div class="col-sm-4">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo2 }}" width="100%" style="max-width:300px"/> <br/>
-  Photo by <a href="https://www.facebook.com/KarolFTR">Karol Olsza&#324;ski</a>
+  <center>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo2 }}" width="100%" style="max-width:300px"/> <br/>
+    Photo by <a href="https://www.facebook.com/KarolFTR">Karol Olsza&#324;ski</a>
+  </center>
 </div>
 <div class="col-sm-8 col-xs-12">
   <h3>{{ member.name }}</h3>
