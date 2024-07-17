@@ -12,8 +12,8 @@ permalink: /about/
 <div class="jumbotron">
 <div class="row">
 <div class="col-sm-4">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo2 }}" width="100%" style="max-width:300px"/>
-  <font size="1.5">Photo by Karol Olsza&#324;ski (<a href="https://www.facebook.com/KarolFTR">Fear The Return</a>)</font>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo2 }}" width="100%" style="max-width:300px"/> <br/>
+  Photo by <a href="https://www.facebook.com/KarolFTR">Karol Olsza&#324;ski</a>
 </div>
 <div class="col-sm-8 col-xs-12">
   <h3>{{ member.name }}</h3>
