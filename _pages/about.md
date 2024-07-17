@@ -13,7 +13,8 @@ permalink: /about/
 <div class="row">
 <div class="col-sm-4">
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo2 }}" width="100%" style="max-width:300px"/> <br/>
-Photo by Karol Olsza&#324;ski (<a href="https://www.facebook.com/KarolFTR">Fear The Return</a>).
+    Photo by <br/>
+    Karol Olsza&#324;ski (<a href="https://www.facebook.com/KarolFTR">Fear The Return</a>)
 </div>
 <div class="col-sm-8 col-xs-12">
   <h3>{{ member.name }}</h3>
