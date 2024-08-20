@@ -1,5 +1,5 @@
 - date: 6 August, 2024
-  headline: "Our work <a href='{{ site.url }}{{ site.baseurl }}/papers/PhysRevB.110.054410.pdf' target='_blank'>Inhomogeneous adiabatic preparation of a quantum critical ground state in two dimensions<a> has been published in <a href='https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.054410' target='_blank'>Physical Review B<a>."
+  headline: "Our work <a href='fabayocbocjr.github.io/papers/PhysRevB.110.054410.pdf' target='_blank'>Inhomogeneous adiabatic preparation of a quantum critical ground state in two dimensions<a> has been published in <a href='https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.054410' target='_blank'>Physical Review B<a>."
 
 - date: 8 July, 2024
   headline: "We have a new arXiv preprint out: <b>Persistent coherent many-body oscillations in a non-integrable quantum Ising chain</b>."
